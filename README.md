@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bergmeijer/yaml%20pipeline/_apis/build/status/gordyberg.pipelines-java?branchName=master)](https://dev.azure.com/bergmeijer/yaml%20pipeline/_build/latest?definitionId=63&branchName=master)
 
 # Contributing
 
